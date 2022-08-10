@@ -1,2 +1,2 @@
-# javaodev1
+# javascriptwork2
 www.patika.dev
